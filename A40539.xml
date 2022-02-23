@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and cleare answer to a false and scandalous paper entituled, The humble remonstrance of the grievances of all His Majesties posts of England, together with carriers, waggoners, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40539</idno>
+            <idno type="STC">Wing F2276</idno>
+            <idno type="STC">ESTC R23344</idno>
+            <idno type="EEBO-CITATION">12067526</idno>
+            <idno type="OCLC">ocm 12067526</idno>
+            <idno type="VID">53403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53403)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 69:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and cleare answer to a false and scandalous paper entituled, The humble remonstrance of the grievances of all His Majesties posts of England, together with carriers, waggoners, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Postal service --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53403:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:53403:1"/>
+            <head>A Full and cleare ANSWER to a falſe and ſcandalous Paper, entituled; <hi>The humble Remonſtrance of the grie<g ref="char:EOLhyphen"/>vances of all his Majeſties Poſts of</hi> England, <hi>together with Carriers, Waggoners, &amp;c.</hi>
+            </head>
+            <p>THe great and many conveniences that have come to this Kingdome, by erecting of a Letter<g ref="char:EOLhyphen"/>office, both in reſpect of Trade and correſpon<g ref="char:EOLhyphen"/>dencie, are better knowne to everie particular perſon by experience than expreſt.</p>
+            <p>Whereby any man may with ſafetie and ſecuritie ſend letters into any part of this Kingdome, and receive an anſwer within five dayes. (A benefit not knowne to this Kingdome before the erection of the ſaid Office.) If any man know a more ſpeedy or ſafe way of ſen<g ref="char:EOLhyphen"/>ding their letters, or doe better like the old way, by Carriers or Foot-Poſts, ſuch are left to their free li<g ref="char:EOLhyphen"/>bertie, none are compelled to ſend their letters this way, none reſtrained from uſing the carriage of letters, as formerly they did: This is all that is deſired, or clai<g ref="char:EOLhyphen"/>med
+<pb n="2" facs="tcp:53403:2"/> by that Patent, whereby the Letter-office is ere<g ref="char:EOLhyphen"/>cted; If this be a Monopoly, it is moſt humbly deſi<g ref="char:EOLhyphen"/>red, the High and Honourable Court of Parliament may judge, whoſe juſtice hath ever been imp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ored, ne<g ref="char:EOLhyphen"/>ver declined; or the Judges of the Kingdome, and not the noyſe and clamour of Poſts, Carriers, Waggo<g ref="char:EOLhyphen"/>ners, &amp;c.</p>
+            <p>The firſt attempt that ever was made of carrying let<g ref="char:EOLhyphen"/>ters this way, was by one <hi>Iude,</hi> and that onely betweene London end Plymouth, who carried them in fourteene dayes, as the Carriers of Exeter did. <hi>Iude</hi> was diſpla<g ref="char:EOLhyphen"/>ced by an order of the Councell Table, and the Poſts put in, who continued it in the ſame way once in four<g ref="char:EOLhyphen"/>teene dayes, whereas now an anſwer may be had once in five dayes, there is not ſo much as a colour of any at<g ref="char:EOLhyphen"/>tempt of carrying letters this way in any other Rode in England, but Plymouth, untill it was ſetled by <hi>Thomas Witherings,</hi> who when hee did firſt undertake this way, his Majeſtie and the Lords of the Councell, who had formerly taken away the place from <hi>Iude,</hi> and ſetled the Poſts of Plymouth, conſidering the many advantages that might come to the Kingdome, by this ſpeedy way of intelligence, did by the ſame power they were pla<g ref="char:EOLhyphen"/>ced, remove them againe, and by a Proclamation dated about July 1635. his Majeſtie did expreſſe his plea<g ref="char:EOLhyphen"/>ſure, that <hi>Thomas Witherings</hi> ſhould have the carriage of the ſaid letters, who would ſettle it in a better and more ſpeedy courſe: whereupon he undertook the ſaid work, and for a long time, after his ſaid undertaking, it coſt him ſome weeks 20. l. 30. l. 40. l. more than hee received, to the great weakening and hazard of the ruine of his eſtate. It is verie true, that untill he had his pa<g ref="char:EOLhyphen"/>tent
+<pb n="3" facs="tcp:53403:2"/> of his Office granted unto him for his life, which was in the yeare 1637. he did in ſome places lay horſes of his owne, in others he did make uſe of the ordinarie Poſt-horſes, and becauſe he deſired quick diſpatch, hee paid them for a guide and a horſe to carrie the male 6. d. <hi>per</hi> mile, after not conceiving a guide neceſſarie, he made only uſe of one horſe, and paid 3. d. <hi>per</hi> mile.</p>
+            <p>Surely yet there is neither injurie nor injuſtice done to the Poſts; for Plymouth Poſts, the ſame power that placed them, removed them: for the other Poſts, they have 3. d. <hi>per</hi> mile, which is more than ordinarie pay. But the objection which ſeemes to carrie the greateſt ſhew, or colour of probabilitie with it is; That the Poſt<g ref="char:EOLhyphen"/>maſters had for formerly 4000. l. <hi>per annum</hi> fee, onely for carrying his Majeſties packets, that <hi>Witherings</hi> hath reduced this to 2053. l. <hi>per annum,</hi> and yet puts a grea<g ref="char:EOLhyphen"/>ter burthen upon them, by carrying his male; hath diſ<g ref="char:EOLhyphen"/>placed many of them received 4000. l. for Poſt-places.</p>
+            <p>If this be but clearly underſtood, there will bee no colour of complaint againſt <hi>Witherings,</hi> either of in<g ref="char:EOLhyphen"/>juſtice or oppreſſion: The poſts, time out of mind, have been placed and removed by the King, at his will and pleaſure, and their fees encreaſed or leſſened, as the uſe and neceſſitie of their ſervice required: So as if his Majeſtie ſhall diſcharge all his poſts, or any in ſuch Roads, or ſhall retrench their wages to halfe the pro<g ref="char:EOLhyphen"/>portion, it is no injuſtice, if it be not ſufficient to main<g ref="char:EOLhyphen"/>taine them, they are not forced to doe the ſervice: But it ſeemes notwithſtanding this abatement of wages, it is yet gainfull, out of their owne ſhewing, elſe <hi>Withe<g ref="char:EOLhyphen"/>rings</hi> could never have received 4000. l. for poſts pla<g ref="char:EOLhyphen"/>ces as they pretend. But bee they gaine or loſſe, how
+<pb n="4" facs="tcp:53403:3"/> doth it concerne Maſter <hi>Witherings</hi> other than thus: the King agrees with Maſter <hi>Witherings,</hi> that the Poſts ſhall carrie his male of letters, Maſter <hi>Witherings</hi> doth agree with his Majeſtie, to pay to the ſeverall Poſts according to a Reglement made in writing ſuch ſums, accordingly he hath conſtantly paid theſe ſums. If theſe proportions be not a ſufficient reward for their ſervice, it is not to bee doubted, but if this ſhall bee made ap<g ref="char:EOLhyphen"/>peare unto his Majeſtie by petition, or otherwiſe, but that care will be had of them: but is there the leaſt co<g ref="char:EOLhyphen"/>lour, why any man ſhould bee demanded from <hi>Withe<g ref="char:EOLhyphen"/>rings,</hi> who undertook not to ſatisfie all the Poſts, but only to pay ſuch ſums according to a Reglement, which comes 2053. l. <hi>per annum,</hi> and the carriage of his maile of letters, according to the ordinarie and com<g ref="char:EOLhyphen"/>mon price of 2. d. ob. <hi>per</hi> mile, would not coſt above 700. l. <hi>per annum.</hi> And it hath been acknowledged by moſt of the Poſts, that Maſter <hi>Witherings</hi> in this, did a verie good ſervice to the Poſts, for now they were con<g ref="char:EOLhyphen"/>ſtantly paid; whereas they ſay there were great arrears upon them before this undertakings. And whatever is pretended, their paines is rather leſſe than more, ſince the carriage of the maile; for they are bound to carrie his Majeſties packets, when ever they come. And it ſel<g ref="char:EOLhyphen"/>dome happeneth, but there are one, two, or more pac<g ref="char:EOLhyphen"/>kets goes along with the maile, which might have been carried, if the maile had not gone: and the Secretaries of State (if the buſineſſe be not verie preſſing) do many times ſtay a day or two, untill the maile goe, which o<g ref="char:EOLhyphen"/>therwiſe muſt have gone by Expreſſes, and ſo the bur<g ref="char:EOLhyphen"/>then is not ſo great as is pretended; for it is verie cer<g ref="char:EOLhyphen"/>taine, that they muſt go as often, if not oftner, if they did not carrie the maile.</p>
+            <pb n="5" facs="tcp:53403:3"/>
+            <p>Maſter <hi>Witherings</hi> never diſplaced any of the Poſts, neither received he one penny to his own uſe for Poſt<g ref="char:EOLhyphen"/>places, the place of Poſtmaſter of <hi>England</hi> was confer<g ref="char:EOLhyphen"/>red upon the Secretaries of Eſtate, who obſerving an<g ref="char:EOLhyphen"/>cient Orders did diſplace many that were not qualified accordingly, as ſuch as did not live upon their Places, or by reaſon of infancy, or other diſabilities did not or are not fit to exerciſe their Places in perſon; but Ma<g ref="char:EOLhyphen"/>ſter <hi>Witherings</hi> ſaith, that few or none to his knowledge were put out of their Places, though uncapable; but he that came in did make them ſome ſatisfaction: and Maſter <hi>Witherings</hi> ſaith, that he out of his own purſe hath paid money to bring divers of them into their Pla<g ref="char:EOLhyphen"/>ces, and in particular he paid 60. l. for <hi>Edward Hutchins</hi> place, which is now ſo far from being acknowledged as a favour, as is turned upon him as a crime by an un<g ref="char:EOLhyphen"/>gratefull perſon.</p>
+            <p>As concerning the 1500. l. which is moſt falſly and ſcandalouſly pretended was given to the Secretaries of Eſtate for the ſupporting and ſecuring of this Mono<g ref="char:EOLhyphen"/>poly Patent, this ſince the ſequeſtration of the ſaid Office is ſaid to be paid by Maſter <hi>Burlemache</hi> to the Poſtmaſters.</p>
+            <p>This Office in <hi>Iune</hi> 1637. was granted to Maſter <hi>Wi<g ref="char:EOLhyphen"/>therings</hi> for life, and whileſt it was a charge unto him (as at the firſt it was, and whileſt the ſaid Office was a ſettling, which by the care, induſtry, and charge of the ſaid Maſter <hi>Witherings</hi> was ſettled as now it is, and can<g ref="char:EOLhyphen"/>not for the eaſe of the Subject be ſettled in any better manner, he enjoyed this Office, but when this Office was fully ſettled, and it began to be a benefit, this Of<g ref="char:EOLhyphen"/>fice was by a hand of power without hearing the ſaid
+<pb n="6" facs="tcp:53403:4"/> 
+               <hi>Witherings,</hi> my without the leaſt crime either proved or objected againſt the ſaid Maſter <hi>Witherings</hi> ſeque<g ref="char:EOLhyphen"/>ſtred into the hands of <hi>Burlemache</hi> a ſtranger, borne a man not able to ſatisfie his own debts, and againſt whom a Commiſſion of Bankrupts hath iſſued, and therefore it is conceived a man neither fit to execute that Place, nor able to make ſatisfaction, if it ſhall be adjudged this Place hath been ſequeſtred againſt Law and Juſtice, and that he ſhall be put to account for ſuch ſummes as he hath received. This Place was not taken from Maſter <hi>Witherings</hi> becauſe it was a Monopoly or grievous to the People, for certainly then it would not have been executed in the very ſame way, nay worſe than it was before the ſequeſtration, for the very Pro<g ref="char:EOLhyphen"/>clamation that iſſued out upon the ſequeſtration, whereby every one was to bring their Letters to <hi>Burle<g ref="char:EOLhyphen"/>mache,</hi> makes the execution of the place in M. <hi>Witherings</hi> a preſident for <hi>Burlemache,</hi> and ſaith that it ſhall be exe<g ref="char:EOLhyphen"/>cuted in the very ſame way, and that nothing but the Place ſhall be altered, ſo as it is now no Monopoly in <hi>Burlemaches</hi> hands, nor any ones elſe, it is onely a Mo<g ref="char:EOLhyphen"/>nopoly in Maſter <hi>Witherings,</hi> and onely during the time that he executed the place in the judgement and opini<g ref="char:EOLhyphen"/>on of theſe men: but <hi>Burlemache</hi> hath been very libe<g ref="char:EOLhyphen"/>rall of Maſter <hi>Witherings</hi> Office to the poſtmaſter, he hath allowed them 1500. l. morethan ever Maſter <hi>Wi<g ref="char:EOLhyphen"/>therings</hi> did: Envy and Malice cannot ſay but Maſter <hi>Witherings</hi> paid all ſuch monies unto the poſts during all the time he enjoyed the ſaid Office as by covenant and agreement he was bound to pay, and what reaſon can there be imagined that <hi>Burlemache</hi> before any judgement or any other legall proceeding who cannot pretend the
+<pb n="7" facs="tcp:53403:4"/> leaſt colour of claime nor intereſt in the ſaid Office but is onely a perſon truſted with the ſaid Office (at the beſt) to account for the profits received to ſuch as have right thereunto, ſhould without the conſent of Maſter <hi>Witherings</hi> pay out of the ſaid Office 1500. l. <hi>per annum,</hi> more than formerly was paid, or by agreeme<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is due, unleſſe it be to animate the Poſts, and to foment com<g ref="char:EOLhyphen"/>plaints againſt Maſter <hi>Witherings,</hi> to the end he may the longer continue the ſaid Office in his hands, and this is the rather to be beleeved, becauſe thoſe that are the greateſt proſecutours in this cauſe againſt Maſter <hi>Witherings</hi> have had very large and great penſions and additions to their former wages out of his Office, as 10. <hi>s. per diem</hi> to <hi>Edward Hutchins,</hi> and 5. <hi>s. per diem</hi> to <hi>Caſtlon.</hi>
+            </p>
+            <p>M. <hi>Witherings</hi> ſaith, that he beleeves there were great arreares due to the Poſts before his undertaking, and that if any truth could come from thoſe perſons, they would acknowledge that Maſter <hi>Witherings</hi> hath with all the induſtry and care that was poſſible, and withall the power of friends he could make, laboured to procure them their arreares, and what monies he could get he did faithfully and honeſtly pay unto them without ex<g ref="char:EOLhyphen"/>pectation of one farthing for his paines; nay, he can fully prove and manifeſt that he hath paid good ſummes of his own monies to them that he never as yet received from his Majeſty. This ſequeſtration is ſo prejudiciall to his Majeſties ſervice and intereſt, and the good and benefit to the Poſts that they are now in arrear of their wages ſince the ſequeſtration into <hi>Burlima<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hes</hi> hands 2000. l. and he no wayes able to pay it; but in Maſter <hi>Witherings</hi> time they were all punctually paid.</p>
+            <pb n="8" facs="tcp:53403:5"/>
+            <p>This buſineſſe hath been referred to a Committee, to hear many pretended grievances and complaints, who have ſate above threeſcore times, have heard Councell and proofes on both ſides, and notwithſtanding all thoſe clamours, it is humbly appealed unto that honourable Committee, whether any thing upon all thoſe hearings have been proved or voted againſt the ſaid <hi>Witherings,</hi> other than the procuring of the Carriers of <hi>Ipſwich</hi> and <hi>Norwich</hi> to be attached and impriſoned upon the then Secretaries Warrant, which is now under the judge<g ref="char:EOLhyphen"/>ment of the Honourable Houſe of Commons how far he is guilty of it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:53403:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
